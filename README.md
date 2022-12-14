@@ -11,7 +11,7 @@ Welcome to tatv-dev profile.
 
 
 <div id="header" align="center">
- <img src="https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100" style="background-color: #1c1917"/>
+ <img src="https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif#gh-dark-mode-only" width="100"/>
 </div>
 
 ---

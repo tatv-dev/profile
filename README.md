@@ -43,5 +43,4 @@
 </div>
 
 
-## :sparkling_heart: Donate
-You can make one-time donations via Momo(0365336413)/Zalo Pay(0365336413). I'll probably buy a ~~coffee~~ tea. :tea:
+## :sparkling_heart

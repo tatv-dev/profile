@@ -10,8 +10,8 @@ Welcome to tatv-dev profile.
 </div>
 
 
-<div id="header" align="center">
- ![#f03c15]<img src="https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
+<div id="header" align="center" style="color: black">
+ <img src="https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
 </div>
 
 ---

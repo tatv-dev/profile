@@ -34,3 +34,8 @@ Welcome to tatv-dev profile.
 ### 💻 Activity Graph
 
 ![](https://activity-graph.herokuapp.com/graph?username=tatv-dev&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+
+
+<div align="center">
+ <img src="https://media1.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
+</div>

@@ -26,7 +26,7 @@ Welcome to tatv-dev profile.
 
 ### 📚 Skills
 
-![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,twitter,stackoverflow,vscode,androidstudio,java,flutter,dart,c,c++,c#,vba,python,mysql,bash)
+![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,twitter,stackoverflow,vscode,androidstudio,java,flutter,dart,c,c#,vba,python,mysql,bash)
 
 ### 💻 Activity Graph
 

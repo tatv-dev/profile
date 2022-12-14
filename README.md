@@ -19,6 +19,6 @@ Welcome to tatv-dev profile.
 ### 😜 Stats
 <div>
   <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=tatv-dev&count_private=true&include_all_commits=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatv-dev&count_private=true&include_all_commits=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatv-dev&count_private=true&include_all_commits=true&theme=radical" />
 </div>
 

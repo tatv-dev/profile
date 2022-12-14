@@ -10,7 +10,7 @@ Welcome to tatv-dev profile.
 </div>
 
 
-<div id="header" align="center" style="background-color: black">
+<div id="header" align="center" style="background-color: #1c1917">
  <img src="https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
 </div>
 

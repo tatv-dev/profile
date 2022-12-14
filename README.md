@@ -14,6 +14,11 @@ Welcome to tatv-dev profile.
  <img src="https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
 </div>
 
-<div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tatv-dev&theme=gruvbox)](https://git.io/streak-stats)
- </div>
+---
+
+### 😜 Stats
+<div>
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=tatv-dev&count_private=true&include_all_commits=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatv-dev&layout=compact&theme=radical" />
+</div>
+

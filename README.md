@@ -41,3 +41,7 @@
 <div align="center">
  <img src="https://media1.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
 </div>
+
+
+## :sparkling_heart: Donate
+You can make one-time donations via Momo(0365336413)/Zalo Pay(0365336413). I'll probably buy a ~~coffee~~ tea. :tea:

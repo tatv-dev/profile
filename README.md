@@ -1,5 +1,5 @@
 <p align="center">
--❤️Welcome to tatv-dev profile.❤️
+❤️Welcome to tatv-dev profile.❤️
 </p>
 
 <div align="center">
@@ -9,11 +9,10 @@
 [![](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com)
 </div>
 
-
+### dark mode images
 <div id="header" align="center">
  <img src="https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
 </div>
-
 
 
 

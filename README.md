@@ -1,5 +1,5 @@
 <p align="center">
-Welcome to tatv-dev profile.
+-❤️Welcome to tatv-dev profile.❤️
 </p>
 
 <div align="center">
@@ -13,7 +13,6 @@ Welcome to tatv-dev profile.
 <div id="header" align="center">
  <img src="https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
 </div>
-![#f03c15](https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif) `#f03c15`
 
 
 

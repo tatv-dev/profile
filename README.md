@@ -22,14 +22,16 @@ Welcome to tatv-dev profile.
   <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=tatv-dev&count_private=true&include_all_commits=true&theme=radical" />
 </div>
 
-<br />### 🏆 Trophy
+--
+
+### 🏆 Trophy
 
 ![](https://github-profile-trophy.vercel.app/?username=tatv-dev&theme=radical&row=1)
 
 
 ### 📚 Skills
 
-![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,twitter,stackoverflow,vscode,androidstudio,java,flutter,dart,c,c++,c#,vba,python,mysql,linux,bash)
+![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,twitter,stackoverflow,vscode,androidstudio,java,flutter,dart,c,c++,c#,vba,python,mysql,bash)
 
 ### 💻 Activity Graph
 

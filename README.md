@@ -11,7 +11,7 @@ Welcome to tatv-dev profile.
 
 
 <div id="header" align="center">
- <img src="https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
+ ![#f03c15]<img src="https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
 </div>
 
 ---

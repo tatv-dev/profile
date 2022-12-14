@@ -28,7 +28,3 @@ Welcome to tatv-dev profile.
 
 ![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,twitter,stackoverflow,vscode,androidstudio,java,flutter,dart,c,c#,vba,python,mysql,bash)
 
-### 💻 Activity Graph
-
-![](https://activity-graph.herokuapp.com/graph?username=tatv-dev&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
-

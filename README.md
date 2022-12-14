@@ -11,11 +11,11 @@ Welcome to tatv-dev profile.
 
 
 <div id="header" align="center">
- 
- <img src="https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif#gh-dark-mode-only" width="100"/>
+ <img src="https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
 </div>
+![#f03c15](https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif) `#f03c15`
 
-![Termux Logo]([https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only](https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif#gh-dark-mode-only))
+
 
 
 ---

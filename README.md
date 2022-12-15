@@ -24,20 +24,12 @@
 
 ---
 
-### 😜 Stats
-<div>
- <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=tatv-dev&count_private=true&include_all_commits=true&theme=radical" />
-</div>
-
-### 🏆 Trophy
-
-![](https://github-profile-trophy.vercel.app/?username=tatv-dev&theme=radical&row=1)
-
----
-
 <div align="center">
- <img src="https://media1.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
+ <img src="<div id="header" align="center">
+ <img src="https://media2.giphy.com/media/gNke2UrUTopOg/giphy.webp?cid=ecf05e4748uzah5m8evx4vk0bn55dx65xfo0y0j3dmgspee2&rid=giphy.webp&ct=g" width="100"/>
+</div>
+" width="100"/>
 </div>
 
 
-## Thanks 💖
+## Happy 💖

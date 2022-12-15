@@ -25,10 +25,7 @@
 ---
 
 <div align="center">
- <img src="<div id="header" align="center">
  <img src="https://media2.giphy.com/media/gNke2UrUTopOg/giphy.webp?cid=ecf05e4748uzah5m8evx4vk0bn55dx65xfo0y0j3dmgspee2&rid=giphy.webp&ct=g" width="100"/>
-</div>
-" width="100"/>
 </div>
 
 

@@ -15,21 +15,20 @@
 </div>
 
 
+<div align="center">❤️</div>
+
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/64/06/ca/6406ca42678a4681991344dfb679e92a.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/64/06/ca/6406ca42678a4681991344dfb679e92a.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/64/06/ca/6406ca42678a4681991344dfb679e92a.gif" width="100"/>
+</div>
 
 
+<div align="center">❤️</div>
 
 <div id="header" align="center">
  <img src="https://media2.giphy.com/media/gNke2UrUTopOg/giphy.webp?cid=ecf05e4748uzah5m8evx4vk0bn55dx65xfo0y0j3dmgspee2&rid=giphy.webp&ct=g" width="100"/>
 </div>
-
-
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/64/06/ca/6406ca42678a4681991344dfb679e92a.gif" width="100"/>
-  <img src="https://i.pinimg.com/originals/64/06/ca/6406ca42678a4681991344dfb679e92a.gif" width="100"/>
-  <img src="https://i.pinimg.com/originals/64/06/ca/6406ca42678a4681991344dfb679e92a.gif" width="100"/>
-</div>
-
-
 
 ---
 

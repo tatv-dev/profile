@@ -1,8 +1,3 @@
-<div id="header" align="center">
- Happy Christmas</br></br>
- <img src="https://media2.giphy.com/media/gNke2UrUTopOg/giphy.webp?cid=ecf05e4748uzah5m8evx4vk0bn55dx65xfo0y0j3dmgspee2&rid=giphy.webp&ct=g" width="100"/>
-</div>
-
 
 <p align="center">
 ❤️Welcome to tatv-dev profile.❤️
@@ -23,6 +18,14 @@
 
 ---
 
+<div id="header" align="center">
+ Happy Christmas</br></br>
+ <img src="https://media2.giphy.com/media/gNke2UrUTopOg/giphy.webp?cid=ecf05e4748uzah5m8evx4vk0bn55dx65xfo0y0j3dmgspee2&rid=giphy.webp&ct=g" width="100"/>
+</div>
+
+
+---
+
 ### 😜 Stats
 <div>
  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=tatv-dev&count_private=true&include_all_commits=true&theme=radical" />
@@ -31,16 +34,6 @@
 ### 🏆 Trophy
 
 ![](https://github-profile-trophy.vercel.app/?username=tatv-dev&theme=radical&row=1)
-
-
-### 📚 Skills
-
-![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,twitter,stackoverflow,vscode,androidstudio,java,flutter,dart,c,c#,vba,python,mysql,bash)
-
-
-### 💻 Activity Graph
-
-![](https://activity-graph.herokuapp.com/graph?username=tatv-dev&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 ---
 

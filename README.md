@@ -21,10 +21,16 @@
   <img src="https://i.pinimg.com/originals/64/06/ca/6406ca42678a4681991344dfb679e92a.gif" width="100"/>
 </div>
 
-
 ---
 
 <div align="center">
  💖wish you happy💖
 </div>
 
+---
+
+<div align="center">
+  <a href="https://github.com/tatv-dev">
+    <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+  </a>
+</div>
